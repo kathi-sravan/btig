@@ -1,0 +1,74 @@
+body{
+    font-family:Roboto;
+}
+
+footer{
+     background-color: #000000;
+     padding:0px 0px;
+}	       
+
+footer ul li{
+    padding:5px 0px;
+    // font-family: poppins;
+}
+
+.adress span , .contact span , .social span{
+   color: #FFF; 
+   font-weight: 800; 
+   padding-bottom: 10px; 
+   margin-bottom: 20px;
+   display: block;
+   font-size: 20px;
+   letter-spacing: 3px;
+}
+ 
+.adress li p , .contact li a , .social li a{
+    color:#FFF;
+    letter-spacing: 2px;
+    text-decoration:none;
+    font-size:15px;
+}
+
+.social li{
+    float:left;
+}
+
+.adress , .contact , .social {
+    list-style: none;
+}
+
+.fa{
+    color:#9c9c9c;
+    margin-right: 15px;
+    font-size:14px;
+}
+
+p {
+    color:white;
+}
+
+// .publish{
+//     .img {
+//         left: 80%;
+//         position: absolute;
+//     }
+// }
+
+.copy {
+    text-align: center;
+    padding-bottom:20px ;
+    
+}
+
+.dwd {
+    img {
+        padding: 0px 10px;
+    }
+    
+}
+
+.fw {
+    font-weight: 400;
+}
+
+

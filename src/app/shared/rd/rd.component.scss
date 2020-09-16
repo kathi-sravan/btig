@@ -1,0 +1,39 @@
+body {margin:2rem;}
+
+// .button {
+//     background:linear-gradient(270deg, #4DB84B 2.83%, #178995 100%);
+//     border: none;
+//     color: white;
+//     padding: 10px;
+//     text-align: center;
+//     text-decoration: none;
+//     display: inline-block;
+//     font-size: 14px;
+//     margin: 4px 2px;
+//     cursor: pointer;
+// }
+
+// .button1 {
+//     border-radius: 12px;
+// }
+
+img {
+    cursor: pointer;
+}
+
+.display-2 {
+    text-transform: uppercase;
+    font-size: 230%;
+    font-weight: 600;
+    font-family: 'Poppins';
+    font-style: normal;
+    background: -webkit-linear-gradient(#4DB84B, #178995);
+    -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.lead {
+    font-size: 16px;
+    text-align: justify;
+
+}

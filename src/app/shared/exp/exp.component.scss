@@ -1,0 +1,40 @@
+body {margin:2rem;}
+
+.button {
+    background:linear-gradient(270deg, #4DB84B 2.83%, #178995 100%);
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button1 {
+    border-radius: 12px;
+}
+
+.display-4 {
+    text-transform: uppercase;
+    font-size: 50px;
+    font-style: normal;
+    background: -webkit-linear-gradient(#4DB84B, #178995);
+    -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+
+.lead {
+    font-size: 16px;
+    text-align: justify;
+    font-family: 'Poppins';
+}
+
+.display-4 {
+    font-size: 230%;
+    font-family: 'Poppins';
+    font-weight: 600;
+}
